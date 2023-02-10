@@ -7,6 +7,13 @@ class Hello
     int c=a+b;
     Sustem.out.println(c);
   }
+   static void add()
+  {
+    int a=1;
+    int b=50;
+    int c=a+b;
+    Sustem.out.println(c);
+  }
   public static void main(String[] args)
   {
     add();
